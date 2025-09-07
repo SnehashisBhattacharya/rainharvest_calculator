@@ -10,7 +10,7 @@ const WelcomeHeader = () => {
         </div>
         <div className="flex-1">
           <h1 className="text-2xl font-bold text-foreground mb-2">
-            Welcome to RainHarvest Calculator
+            Welcome to RainWisee
           </h1>
           <p className="text-muted-foreground leading-relaxed">
             Discover your property's rainwater harvesting potential and contribute to sustainable water management. 
